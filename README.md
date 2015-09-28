@@ -1,0 +1,1 @@
+This repository is used to keep the full history of our terms and conditions. You can check our the `Terms.md` file to see the latest terms. If you wish to see previous versions of the terms, you can check the *"commit"* tab at the top of this page.
